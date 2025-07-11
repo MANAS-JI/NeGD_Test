@@ -1,4 +1,4 @@
 # NeGD_Test
 This is the NeGD Test Repository
 <br>
-Author: Manas Gupta
+Author: Manas Gupta(NeGD)
